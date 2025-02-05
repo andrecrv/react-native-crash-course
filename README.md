@@ -59,8 +59,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/aora.git
-cd aora
+git clone https://github.com/andrecrv/react-native-crash-course.git
+cd react-native-crash-course
 ```
 
 **Installation**
